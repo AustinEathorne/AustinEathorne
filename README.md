@@ -1,6 +1,7 @@
-<!--# :construction_worker::construction::warning: WIP :warning::construction::construction_worker:-->
+[![Linkedin Badge](https://img.shields.io/badge/-AustinEathorne-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austineathorne/)](https://www.linkedin.com/in/austineathorne/)
+[![Gmail Badge](https://img.shields.io/badge/-AustinEathorne@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:austineathorne@gmail.com)](mailto:austineathorne@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Portfolio-239120?style=plastic-square&link=austineathorne.com)](austineathorne.com)
 
-# Stats
 - **Day Job**: UI Developer at Jam City Toronto
 - **Enjoys**: Walking his dog, listening to vinyl, watching anime, camping, making and playing games
 - **Favourite Colour**: Green
@@ -16,9 +17,9 @@
 ![Unity](http://img.shields.io/badge/-Audio-000000?style=plastic&logo=unity&logoColor=white)
 ![Unity](http://img.shields.io/badge/-Canvas-000000?style=plastic&logo=unity&logoColor=white)
 ![Unity](http://img.shields.io/badge/-Editor_Scripting-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Shaders-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Physics-000000?style=plastic&logo=unity&logoColor=white)
 ![Unity](http://img.shields.io/badge/-Particle_System-000000?style=plastic&logo=unity&logoColor=white)
+![Unity](http://img.shields.io/badge/-Physics-000000?style=plastic&logo=unity&logoColor=white)
+![Unity](http://img.shields.io/badge/-Shaders-000000?style=plastic&logo=unity&logoColor=white)
 ![Unity](http://img.shields.io/badge/-Tilemap-000000?style=plastic&logo=unity&logoColor=white)
 
 ### Languages & Tools
@@ -41,8 +42,3 @@
 ### Currently Learning
 ![Unity](http://img.shields.io/badge/-DOTS/ECS-000000?style=plastic&logo=unity&logoColor=white)
 ![Blender](http://img.shields.io/badge/-Blender-F5792A?style=plastic&logo=blender&logoColor=white)
-
-### Links
-[![Linkedin Badge](https://img.shields.io/badge/-AustinEathorne-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austineathorne/)](https://www.linkedin.com/in/austineathorne/)
-[![Gmail Badge](https://img.shields.io/badge/-AustinEathorne@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:austineathorne@gmail.com)](mailto:austineathorne@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Portfolio-239120?style=plastic-square&link=austineathorne.com)](austineathorne.com)
