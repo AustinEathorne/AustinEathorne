@@ -1,8 +1,7 @@
-# :construction_worker::construction::warning: WIP :warning::construction::construction_worker:
+<!--# :construction_worker::construction::warning: WIP :warning::construction::construction_worker:-->
 
 # Stats
-- **Name**: Austin Eathorne
-- **Day Job**: UI Developer at Jam City Toronto
+- **Day Job**: UI Developer @JamCityTO
 - **Enjoys**: Walking his dog, listening to vinyl, watching anime, camping, making and playing games
 - **Favourite Colour**: Green
 
