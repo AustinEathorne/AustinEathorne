@@ -10,8 +10,8 @@
 - **Enjoys**: Walking his dog, listening to vinyl, watching anime, camping, making and playing games
 - **Favourite Colour**: Green
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austineathorne&layout=compact&hide=shell&theme=blue-green)]()
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austineathorne&hide=issues,contribs&count_private=true&show_icons=true&theme=blue-green)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austineathorne&layout=compact&hide=shell&theme=tokyonight)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austineathorne&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)]()
 
 ### Unity
 ![Unity](http://img.shields.io/badge/-Addressable_Asset_System-000000?style=plastic&logo=unity&logoColor=white)
