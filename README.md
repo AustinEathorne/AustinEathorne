@@ -1,7 +1,7 @@
 <!--# :construction_worker::construction::warning: WIP :warning::construction::construction_worker:-->
 
 # Stats
-- **Day Job**: UI Developer @JamCityTO
+- **Day Job**: UI Developer at Jam City Toronto
 - **Enjoys**: Walking his dog, listening to vinyl, watching anime, camping, making and playing games
 - **Favourite Colour**: Green
 
