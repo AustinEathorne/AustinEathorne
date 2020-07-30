@@ -2,9 +2,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-AustinEathorne@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:austineathorne@gmail.com)](mailto:austineathorne@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Portfolio-239120?style=plastic-square&link=austineathorne.com)](austineathorne.com)
 
-<div align="center">
-<img width="800" src="https://raw.githubusercontent.com/AustinEathorne/AustinEathorne/master/banner.gif"/>
-</div>
+<p align="center">
+<img width="800" src="https://raw.githubusercontent.com/AustinEathorne/AustinEathorne/master/Assets/banner.gif"/>
+</p>
 
 - **Day Job**: UI Developer at Jam City Toronto
 - **Enjoys**: Walking his dog, listening to vinyl, watching anime, camping, making and playing games
