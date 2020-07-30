@@ -2,12 +2,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-AustinEathorne@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:austineathorne@gmail.com)](mailto:austineathorne@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Portfolio-239120?style=plastic-square&link=austineathorne.com)](austineathorne.com)
 
+<div align="center">
+<img width="800" src="https://raw.githubusercontent.com/AustinEathorne/AustinEathorne/master/banner.gif"/>
+</div>
+
 - **Day Job**: UI Developer at Jam City Toronto
 - **Enjoys**: Walking his dog, listening to vinyl, watching anime, camping, making and playing games
 - **Favourite Colour**: Green
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austineathorne&layout=compact&hide=shell&theme=radical)]()
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austineathorne&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austineathorne&layout=compact&hide=shell&theme=blue-green)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austineathorne&hide=issues,contribs&count_private=true&show_icons=true&theme=blue-green)]()
 
 ### Unity
 ![Unity](http://img.shields.io/badge/-Addressable_Asset_System-000000?style=plastic&logo=unity&logoColor=white)
