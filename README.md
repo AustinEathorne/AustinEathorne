@@ -1,13 +1,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AustinEathorne-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austineathorne/)](https://www.linkedin.com/in/austineathorne/)
 [![Gmail Badge](https://img.shields.io/badge/-AustinEathorne@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:austineathorne@gmail.com)](mailto:austineathorne@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Portfolio-239120?style=plastic-square&link=austineathorne.com)](austineathorne.com)
+<!--[![Postfolio Badge](https://img.shields.io/badge/-Portfolio-239120?style=plastic-square&link=austineathorne.com)](austineathorne.com)-->
 
 <p align="center">
 <img width="800" src="https://raw.githubusercontent.com/AustinEathorne/AustinEathorne/master/Assets/banner.gif"/>
 </p>
 
 - **Day Job**: UI Developer at Jam City Toronto
-- **Enjoys**: Walking his dog, listening to vinyl, watching anime, camping, making and playing games
+- **I Enjoy**: music, nature, anime, my dog and learning new things.
 - **Favourite Colour**: Green
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austineathorne&layout=compact&hide=shell&theme=tokyonight)]()
