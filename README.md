@@ -6,7 +6,7 @@
 <img width="800" src="https://raw.githubusercontent.com/AustinEathorne/AustinEathorne/master/Assets/banner.gif"/>
 </p>
 
-- **Day Job**: UI Developer at Jam City Toronto
+- **Day Job**: Technical Artist at Uken Games
 - **I Enjoy**: music, nature, anime, my dog and learning new things.
 - **Favourite Colour**: Green
 
