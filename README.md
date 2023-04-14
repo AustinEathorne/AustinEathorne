@@ -1,48 +1,20 @@
-[![Linkedin Badge](https://img.shields.io/badge/-AustinEathorne-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austineathorne/)](https://www.linkedin.com/in/austineathorne/)
 [![Gmail Badge](https://img.shields.io/badge/-AustinEathorne@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:austineathorne@gmail.com)](mailto:austineathorne@gmail.com)
-<!--[![Postfolio Badge](https://img.shields.io/badge/-Portfolio-239120?style=plastic-square&link=austineathorne.com)](austineathorne.com)-->
+[![Linkedin Badge](https://img.shields.io/badge/-AustinEathorne-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austineathorne/)](https://www.linkedin.com/in/austineathorne/)
 
 <p align="center">
 <img width="800" src="https://raw.githubusercontent.com/AustinEathorne/AustinEathorne/master/Assets/banner.gif"/>
 </p>
 
-- **Day Job**: Technical Artist at Uken Games
-- **I Enjoy**: music, nature, anime, my dog and learning new things.
-- **Favourite Colour**: Green
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austineathorne&layout=compact&hide=shell&theme=tokyonight)]()
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austineathorne&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)]()
-
-### Unity
-![Unity](http://img.shields.io/badge/-Addressable_Asset_System-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-AI-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Animation-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Asset_Bundles-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Audio-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Canvas-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Editor_Scripting-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Particle_System-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Physics-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Shaders-000000?style=plastic&logo=unity&logoColor=white)
-![Unity](http://img.shields.io/badge/-Tilemap-000000?style=plastic&logo=unity&logoColor=white)
-
-### Languages & Tools
-![C#](http://img.shields.io/badge/-C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
-![HLSL/ShaderLab](http://img.shields.io/badge/-HLSL/ShaderLab-000000?style=plastic&logo=unity&logoColor=white)
-![JSON](http://img.shields.io/badge/-JSON-000000?style=plastic&logo=json&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+[![Stats](https://github-readme-stats.vercel.app/api?username=austineathorne&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)]()
 
 ![Unity](http://img.shields.io/badge/-Unity-000000?style=plastic&logo=unity&logoColor=white)
 ![Unreal Engine 4](http://img.shields.io/badge/-Unreal_Engine_4-313131?style=plastic&logo=unreal-engine&logoColor=white)
-![Visual Studio Code](http://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=plastic&logo=visual-studio-code)
-![Visual Studio](http://img.shields.io/badge/-Visual_Studio-5C2D91?style=plastic&logo=visual-studio)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 ![Adobe Photoshop](http://img.shields.io/badge/-Photoshop-26C9FF?style=plastic&logo=adobe-photoshop&logoColor=white)
-![Fork](https://img.shields.io/badge/-Fork-0FA1D8?style=plastic&logo=)
-![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?style=plastic&logo=atlassian)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=plastic&logo=bitbucket)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=plastic&logo=powershell&logoColor=white)
 
-### Currently Learning
-![Unity](http://img.shields.io/badge/-DOTS/ECS-000000?style=plastic&logo=unity&logoColor=white)
-![Blender](http://img.shields.io/badge/-Blender-F5792A?style=plastic&logo=blender&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white)
